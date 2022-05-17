@@ -33,7 +33,6 @@ the tables manually or run the below
   2. Logout.php(unset sessions and destroys them)
 
  -->	
-Akarsh Pathania
-E-mail : akarshpathania25@gmail.com
-Contact :8278843993
+
+
 					  
